@@ -39,7 +39,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 
 ### Adım 1: Depoyu Klonlayın
 ```bash
-git clone https://github.com/KULLANICI_ADI/oyun-takip.git
+git clone https://github.com/mertmak/GameTracker.git
 ```
 
 ### Adım 2: Bağımlılıkları Yükleyin
