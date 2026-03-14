@@ -4,7 +4,7 @@
 Bu proje, oyun koleksiyonunuzu yönetmenizi, oynama sürelerinizi takip etmenizi ve oyun istatistiklerinizi görmenizi sağlayan modern bir **React** uygulamasıdır.
 
 ## 🚀 Canlı Demo
-Projenin yayındaki haline buradan ulaşabilirsiniz: [Netlify Linkini Buraya Yapıştır]
+Projenin yayındaki haline buradan ulaşabilirsiniz: gametrackermertmak.netlify.app
 
 ## 📸 Ekran Görüntüsü
 
